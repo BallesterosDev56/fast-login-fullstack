@@ -1,0 +1,15 @@
+# Node.js
+BACK/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Directorio de compilación
+dist
+build
+
+# Archivos de configuración
+.env
+FRONT/node_modules
